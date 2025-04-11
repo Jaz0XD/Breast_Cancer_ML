@@ -1,0 +1,3 @@
+Run the following command in python env terminal to install these dependencies
+
+!pip install matplotlib pandas numpy scikit-learn joblib seaborn lifelines imblearn openpyxl
